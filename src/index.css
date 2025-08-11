@@ -1,0 +1,83 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Optimizaciones de rendimiento críticas */
+* {
+  box-sizing: border-box;
+}
+
+/* Optimización de fuentes */
+html {
+  font-display: swap;
+}
+
+/* Scroll suave pero rápido */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Optimización de renderizado */
+body {
+  font-display: swap;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeSpeed;
+  -webkit-transform: translateZ(0);
+  transform: translateZ(0);
+}
+
+/* Optimización de imágenes y elementos */
+img, video {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* Optimización de animaciones */
+* {
+  will-change: auto;
+}
+
+/* Optimización para dispositivos táctiles */
+button, a, input, textarea, select {
+  touch-action: manipulation;
+  -webkit-tap-highlight-color: transparent;
+}
+
+/* Optimización de scroll en móvil */
+body {
+  -webkit-overflow-scrolling: touch;
+  overflow-scrolling: touch;
+}
+
+/* Optimización de transiciones */
+.transition-all {
+  transition-property: transform, opacity, background-color, border-color;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* Reduce motion for users who prefer it */
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* Optimización para pantallas pequeñas */
+@media (max-width: 768px) {
+  * {
+    transition-duration: 0.2s;
+  }
+  
+  .animate-pulse {
+    animation-duration: 1s;
+  }
+  
+  .animate-bounce {
+    animation-duration: 0.5s;
+  }
+}
