@@ -92,14 +92,14 @@ const Services = () => {
             Soluciones de IA que Complementan a tu Equipo
           </h3>
           <p className="text-lg text-slate-300 max-w-3xl mx-auto leading-relaxed">
-            Descubre cómo nuestras <span className="text-blue-400 font-bold">soluciones de inteligencia artificial</span>{' '}
-            pueden <span className="text-green-400 font-bold">optimizar tus procesos</span> y ayudarte a{' '}
-            <span className="text-white font-bold">brindar mejor servicio a tus clientes</span>.
+            Nuestras <span className="text-blue-400 font-bold">soluciones de inteligencia artificial</span>{' '}
+            <span className="text-green-400 font-bold">optimizan procesos empresariales</span> y{' '}
+            <span className="text-white font-bold">mejoran la experiencia del cliente</span> de forma automatizada.
           </p>
           
           <div className="mt-6 bg-blue-600/20 border border-blue-500/30 rounded-lg p-4 max-w-2xl mx-auto">
             <p className="text-blue-300 font-bold text-center">
-              ⚡ TECNOLOGÍA QUE SE ADAPTA A TU FORMA DE TRABAJAR
+              ⚡ TECNOLOGÍA EMPRESARIAL AVANZADA Y PERSONALIZABLE
             </p>
           </div>
         </div>

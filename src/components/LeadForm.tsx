@@ -346,18 +346,18 @@ ${formData.empresa}`;
             <span className="text-green-400">CONSULTA</span> <span className="text-blue-400">GRATUITA</span>
           </h2>
           <p className="text-lg text-slate-300 leading-relaxed">
-            Completa el formulario y recibe una <span className="text-blue-400 font-bold">consulta personalizada</span>{' '}
-            sobre cómo la IA puede <span className="text-green-400 font-bold">mejorar tu negocio</span>.{' '}
-            <span className="text-white font-bold">Sin compromiso, completamente gratuito.</span>
+            Solicita una <span className="text-blue-400 font-bold">evaluación técnica personalizada</span>{' '}
+            para implementar <span className="text-green-400 font-bold">automatización empresarial</span> en tu organización.{' '}
+            <span className="text-white font-bold">Análisis profesional sin compromiso.</span>
           </p>
           <div className="mt-4 inline-flex items-center gap-2 px-4 py-2 bg-gradient-to-r from-green-600/20 to-blue-600/20 rounded-full border border-green-600/30 backdrop-blur-sm animate-pulse">
             <Target className="w-4 h-4 text-green-400" />
-            <span className="text-green-400 font-bold text-sm">ANÁLISIS GRATUITO PERSONALIZADO</span>
+            <span className="text-green-400 font-bold text-sm">EVALUACIÓN TÉCNICA PROFESIONAL</span>
           </div>
           
           <div className="mt-4 bg-blue-600/20 border border-blue-500/30 rounded-lg p-3">
             <p className="text-blue-300 font-bold text-center text-sm">
-              ✨ CONSULTA GRATUITA - DESCUBRE EL POTENCIAL DE TU NEGOCIO
+              ✨ ANÁLISIS EMPRESARIAL - OPTIMIZACIÓN DE PROCESOS GARANTIZADA
             </p>
           </div>
         </div>

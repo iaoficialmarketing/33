@@ -87,15 +87,15 @@ const Hero = () => {
         {/* Enhanced Subtitle */}
         <div className="mb-12 max-w-4xl">
           <p className="text-lg md:text-xl text-slate-300 leading-relaxed">
-            Descubre cómo la <span className="text-blue-400 font-bold">inteligencia artificial</span> puede{' '}
-            <span className="text-green-400 font-bold">complementar a tu equipo</span> y ayudarte a{' '}
-            <span className="text-blue-400 font-bold">crecer tu negocio</span>.{' '}
-            <span className="text-white font-bold">Conoce nuestras soluciones personalizadas.</span>
+            Transformamos tu negocio con <span className="text-blue-400 font-bold">soluciones de inteligencia artificial</span> que{' '}
+            <span className="text-green-400 font-bold">automatizan procesos</span> y{' '}
+            <span className="text-blue-400 font-bold">optimizan resultados</span>.{' '}
+            <span className="text-white font-bold">Tecnología empresarial de vanguardia.</span>
           </p>
           
           <div className="mt-6 bg-blue-600/20 border border-blue-500/30 rounded-lg p-4">
             <p className="text-blue-300 font-semibold text-center">
-              💡 SOLUCIONES INTELIGENTES PARA HACER CRECER TU NEGOCIO
+              💡 AUTOMATIZACIÓN EMPRESARIAL DE NUEVA GENERACIÓN
             </p>
           </div>
         </div>

@@ -110,14 +110,14 @@ const Industries = () => {
             <span className="text-blue-400">¿Tu Industria?</span> <span className="text-green-400">Casos de Éxito</span>
           </h2>
           <p className="text-lg text-slate-300 max-w-3xl mx-auto mb-8 leading-relaxed">
-            Conoce cómo empresas como la tuya están <span className="text-green-400 font-bold">mejorando sus resultados</span>{' '}
-            con nuestras soluciones de inteligencia artificial.{' '}
-            <span className="text-white font-bold">Descubre qué podemos hacer por tu negocio.</span>
+            Empresas líderes en diferentes sectores han <span className="text-green-400 font-bold">optimizado sus operaciones</span>{' '}
+            con nuestras soluciones de automatización empresarial.{' '}
+            <span className="text-white font-bold">Casos de éxito comprobados en múltiples industrias.</span>
           </p>
           
           <div className="bg-blue-600/20 border border-blue-500/30 rounded-lg p-4 max-w-3xl mx-auto mb-12">
             <p className="text-blue-300 font-bold text-center">
-              💡 SOLUCIONES PERSONALIZADAS PARA CADA INDUSTRIA
+              💡 AUTOMATIZACIÓN ESPECIALIZADA POR SECTOR EMPRESARIAL
             </p>
           </div>
 

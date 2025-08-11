@@ -42,7 +42,7 @@ const Footer = () => {
               </h3>
             </div>
             <p className="text-slate-400 leading-relaxed">
-              La plataforma de IA más avanzada para automatizar tu atención al cliente y aumentar tus ventas 24/7.
+              Plataforma empresarial de automatización con inteligencia artificial para optimizar procesos y resultados comerciales.
             </p>
             
             {/* Trust indicators */}
